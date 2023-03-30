@@ -1,0 +1,1 @@
+from bot_cashback import dp
